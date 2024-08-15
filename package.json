@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --env-file=.env server.js",
+    "start": "node server.js",
+    "build": "echo 'This is the build script'"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.14.0",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "telegraf": "^4.16.3"
+  }
+}
