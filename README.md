@@ -63,4 +63,4 @@ This project is a Telegram chatbot that helps users document their daily tasks a
 #### Ability to deliver a user-centric solution that enhances productivity and social media presence
 
 ## Auther 
-### Swapnil Ingale  - [GitHub Profile](https://github.com/beaming1232) 
+### Saurabh yeole - [GitHub Profile](https://github.com/beaming1232) 
