@@ -29,7 +29,7 @@ This project is a Telegram chatbot that helps users document their daily tasks a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/swan019/Task2Post
+
     ```
 2. Install dependencies:
     ```bash
@@ -63,4 +63,4 @@ This project is a Telegram chatbot that helps users document their daily tasks a
 #### Ability to deliver a user-centric solution that enhances productivity and social media presence
 
 ## Auther 
-### Swapnil Ingale  - [GitHub Profile](https://github.com/swan019) 
+### Swapnil Ingale  - [GitHub Profile](https://github.com/beaming1232) 
